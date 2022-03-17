@@ -1,0 +1,11 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+}
+
+/* #navbar {
+    display: flex;
+} */
+.navigation {
+    display: flex;
+}
